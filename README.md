@@ -6,13 +6,12 @@ Grades Calculator App in Java
 
 <p>The AVG button displays the AVERAGE of all entered grades by the user.</p>
 
-![ave](https://user-images.githubusercontent.com/39883704/49530712-c63d1c80-f886-11e8-9330-2f3e656a822f.png)
+![ave](https://user-images.githubusercontent.com/39883704/49532163-e4f0e280-f889-11e8-8025-9c4444a04870.png)
 <h2>Min</h2>
 
-![min](https://user-images.githubusercontent.com/39883704/49530957-419ece00-f887-11e8-8eb1-19210df977c8.png)
-<h2>Max</h2>
+![min](https://user-images.githubusercontent.com/39883704/49532166-e6220f80-f889-11e8-8719-10f9e5582be2.png)
 
-![max](https://user-images.githubusercontent.com/39883704/49530890-2207a580-f887-11e8-8f31-c441a30a1561.png)
+![max](https://user-images.githubusercontent.com/39883704/49532165-e5897900-f889-11e8-8370-340ce7e9c0ad.png)
 
 <h2>AutoCompleteTextView</h2>
 The users can also use the search option in order to find their preferred institution.
