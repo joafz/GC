@@ -15,6 +15,6 @@ Grades Calculator App in Java
 ![max](https://user-images.githubusercontent.com/39883704/49530890-2207a580-f887-11e8-8f31-c441a30a1561.png)
 
 <h2>AutoCompleteTextView</h2>
-The user can search and choose their preferred institution.
+The users can also use the search option in order to find their preferred institution.
 
 ![search](https://user-images.githubusercontent.com/39883704/49530177-b113be00-f885-11e8-822a-7b24c3305f69.png)
