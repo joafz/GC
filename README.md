@@ -1,5 +1,4 @@
-# Grades-Calculator
-Grades Calculator App in Java
+<h1>Grades Calculator</h1>
 <p>When the user enters the grades,the app calculates the average, minimum and maximum of those numbers in the second activity.</p>
 ![ax1](https://user-images.githubusercontent.com/39883704/49530536-6d6d8400-f886-11e8-89e0-067b9cb56d99.png)
 <h2>Average</h2>
